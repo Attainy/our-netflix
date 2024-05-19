@@ -24,6 +24,8 @@
 
 <!-- Demo/메인 이미지 -->
 # Main Screen
+`데모영상`  https://youtu.be/Y9TaMagiEJ4
+
 <div align="center">
   <img src="https://github.com/front01team/our-netflix/assets/111291076/66f54ad0-a993-4ff8-b863-d6264cf3d7ab" width="100%"/>
 </div>
